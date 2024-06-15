@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, my name is John Williams. I'm a Professor of Information Engineering at MIT.
+
+2
+00:00:06,000 --> 00:00:11,000
+I teach two courses, one in engineering computation and data science,
+
+3
+00:00:11,000 --> 00:00:15,000
+and the other in architecting and engineering software systems.
+
+4
+00:00:15,000 --> 00:00:21,000
+And it's been a real pleasure to collaborate with Boeing on developing these courses.
+
+5
+00:00:21,000 --> 00:00:27,000
+For many years I was Director of the MIT Auto ID Lab where the Internet of Things was invented.
+
+6
+00:00:27,000 --> 00:00:31,000
+We thought at that time our problem was a hardware problem.
+
+7
+00:00:31,000 --> 00:00:39,000
+We had RFID chips that we tried to read and the distance that we can read them wasn't that great.
+
+8
+00:00:39,000 --> 00:00:48,000
+But it turned out our problem really was how to build a system to move that data and make it visible around the world.
+
+9
+00:00:49,000 --> 00:01:02,000
+So Eric Schmidt says that since the beginning of time until 2003 there was only 5 exabytes of data created.
+
+10
+00:01:02,000 --> 00:01:08,000
+Today we create that data in just a few hours.
+
+11
+00:01:08,000 --> 00:01:15,000
+So the problem is how to change that data into business value.
+
+12
+00:01:15,000 --> 00:01:22,000
+And in these courses we're covering all the stages that you'll be going through.
+
+13
+00:01:22,000 --> 00:01:31,000
+We're going to leverage the tools and the techniques from web computing through the cloud to AI and machine learning.
+
+14
+00:01:31,000 --> 00:01:41,000
+And by leveraging these we think that today we can build sophisticated systems that can handle real-time data that give us real business value.
+
+15
+00:01:41,000 --> 00:01:48,000
+So we think you're going to learn a lot in these courses and I'll be seeing you online. Bye for now.
+

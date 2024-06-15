@@ -1,0 +1,15 @@
+Hi, my name is John Williams. I'm a Professor of Information Engineering at MIT.
+I teach two courses, one in engineering computation and data science,
+and the other in architecting and engineering software systems.
+And it's been a real pleasure to collaborate with Boeing on developing these courses.
+For many years I was Director of the MIT Auto ID Lab where the Internet of Things was invented.
+We thought at that time our problem was a hardware problem.
+We had RFID chips that we tried to read and the distance that we can read them wasn't that great.
+But it turned out our problem really was how to build a system to move that data and make it visible around the world.
+So Eric Schmidt says that since the beginning of time until 2003 there was only 5 exabytes of data created.
+Today we create that data in just a few hours.
+So the problem is how to change that data into business value.
+And in these courses we're covering all the stages that you'll be going through.
+We're going to leverage the tools and the techniques from web computing through the cloud to AI and machine learning.
+And by leveraging these we think that today we can build sophisticated systems that can handle real-time data that give us real business value.
+So we think you're going to learn a lot in these courses and I'll be seeing you online. Bye for now.
